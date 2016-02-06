@@ -1,0 +1,18 @@
+{
+  "name": "mongofy-documentdb",
+  "version": "0.1.0",
+  "description": "An utility to export Azure DocumentDB databases to MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mansib Rahman <mansib.rahman@outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaessaki/mongofy-documentdb"
+  },
+  "dependencies": {
+    "doqmentdb": "*"
+  },
+  "license": "MIT"
+}
